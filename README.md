@@ -1,0 +1,2 @@
+# kelasruby
+hello
